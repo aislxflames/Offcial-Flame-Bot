@@ -37,8 +37,8 @@ module.exports = {
 
   DASHBOARD: {
     enabled: true, // enable or disable dashboard
-    baseURL: "https://32febaca-56d1-46f7-9941-88d2bb3984ef-00-34r7xsgcnugc4.sisko.replit.dev", // base url
-    failureURL: "https://32febaca-56d1-46f7-9941-88d2bb3984ef-00-34r7xsgcnugc4.sisko.replit.dev", // failure redirect url
+    baseURL: "https://offcial-flame-bot.onrender.com", // base url
+    failureURL: "https://offcial-flame-bot.onrender.com", // failure redirect url
     port: "8080", // port to run the bot on
   },
 
